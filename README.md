@@ -30,3 +30,4 @@ El sistema solicita al usuario el nombre, el precio y la cantidad de un producto
 El programa valida los datos ingresados para evitar errores.  
 Asegura que el precio sea un número decimal y que la cantidad sea un número entero.  
 El costo total se calcula mediante una operación de multiplicación.
+
