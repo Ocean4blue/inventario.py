@@ -79,4 +79,5 @@ cd inventario-python
 
 Ahora puedes ejecutar el programa con:
 
+
 python inventario.py
