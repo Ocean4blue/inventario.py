@@ -1,6 +1,8 @@
 
 # Programa de inventario de productos
 
+![alt text](<Diagrama de flujo.png>)
+
 ## Descripción
 
 Este programa solicita al usuario el nombre, precio y cantidad de un producto.
