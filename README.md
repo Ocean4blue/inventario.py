@@ -1,9 +1,9 @@
 
-# Programa de inventario de productos
+# Programa de inventario de productos:
 
 ![alt text](<Diagrama de flujo.png>)
 
-## Descripción
+## Descripción:
 
 Este programa solicita al usuario el nombre, precio y cantidad de un producto.
 
@@ -20,7 +20,7 @@ Se utiliza para practicar el uso de entrada de datos, validación, ciclos y oper
 
 El sistema solicita al usuario el nombre, el precio y la cantidad de un producto, y luego calcula el costo total.
 
-## Cómo funciona
+## Cómo funciona:
 
 1. El programa solicita al usuario el nombre de un producto.
 2. Después pide el precio del producto y verifica que sea un número decimal válido.
@@ -78,5 +78,6 @@ Entra a la carpeta descargada:
 cd inventario-python
 
 Ahora puedes ejecutar el programa con:
+
 
 python inventario.py
